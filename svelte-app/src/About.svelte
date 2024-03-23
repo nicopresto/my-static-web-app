@@ -1,6 +1,6 @@
 <div class="content-container">
   <div class="content-title-group not-found">
-    <h2 class="title">Product Wish List v2</h2>
+    <h2 class="title">Product Wish List v3</h2>
     <p>
       This project was created to help represent a fundamental app written with
       Svelte. The shopping theme is used throughout the app.
